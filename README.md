@@ -15,4 +15,4 @@ Research Assistant at Araya Inc.
 [Publication](link)
 
 ## Images
-![img](filename)
+![img](/assets/img/)
