@@ -5,9 +5,9 @@ B.S. Integrative Neuroscience
 B.A. Mathematical Sciences
 
 ### Work Experience
-Research Assistant at Lim lab
-Research Assistant at Kurtz lab
-Research Assistant at Araya Inc.
+Research Assistant at [Auditory Cognitive Neuroscience lab](https://sites.google.com/binghamton.edu/limlab/) under Dr. Sung Joo Lim.
+Research Assistant at [Learning and Representation lab](https://kurtzlab.binghamton.edu/) under Dr. Kenneth J Kurtz.
+Research Assistant at [Araya Inc.]([https://www.araya.org/en/](https://research.araya.org/))
 
 ### Projects
 [Publication](link)
