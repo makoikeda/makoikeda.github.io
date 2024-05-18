@@ -1,4 +1,4 @@
-# Computational Neuroscientist
+Auditory Cognitive Neuroscience Lab. Department of Psychology, SUNY Binghamton.
 
 ### Education
 B.S. Integrative Neuroscience
