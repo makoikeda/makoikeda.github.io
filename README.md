@@ -12,3 +12,4 @@ Research Assistant at Kurtz lab
 Research Assistant at Araya Inc.
 
 ### Projects
+[Publication](link)
