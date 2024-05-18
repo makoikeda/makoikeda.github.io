@@ -2,5 +2,5 @@ title: Mako Ikeda
 logo: /assets/img/selfphoto.jpg
 # description: text below image
 show_downloads: false
-theme: jekyll-theme-cayman
+remote_theme: chrisrhymes/bulma-clean-theme
 
